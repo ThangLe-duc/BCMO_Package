@@ -10,9 +10,9 @@ We contribute here a Matlab-based optimization software package based on our nov
 - Enjoy results
 
 # Contributors
-Thang Le-Duc
-Quoc-Hung Nguyen
-Hung Nguyen-Xuan
+- Thang Le-Duc
+- Quoc-Hung Nguyen
+- Hung Nguyen-Xuan
 
 # References:
 Thang Le-Duc, Quoc-Hung Nguyen, H. Nguyen-Xuan, Balancing Composite Motion Optimization, Information Sciences, in press, 2020 https://www.sciencedirect.com/science/article/pii/S0020025520300773
