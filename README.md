@@ -1,5 +1,5 @@
 # Introduction
-We contribute here a Matlab-based optimization software package based on our novel optimization algorithm named Balancing Composite Motion Optimization (BCMO). It is noted that this proposed algorithm is constructed without algorithm-specific parameters, the users can directly apply it to solve any unconstrained optimization problems without tuning special parameters. Some detailed definitions and instructions are also presented into the codes to help the users easily modify it for personal research and uses. We show below some necessary information of our BCMO software package.
+We contribute here a Matlab-based optimization software package based on our novel optimization algorithm named Balancing Composite Motion Optimization (BCMO). It is noted that this proposed algorithm is constructed without algorithm-specific parameters, the users can directly apply it to solve any unconstrained optimization problems without tuning special parameters. Some detailed definitions and instructions are also presented into the codes to help the users easily modify it for personal research and uses. We show below some necessary information of our BCMO package including
 1. Structure of BCMO software package: 
 - Main.m: the main function for implementing BCMO to solve unconstrained optimization problems.
 - OptimProblem.m: the function defining the objective function of unconstrained optimization problems.
@@ -9,7 +9,7 @@ We contribute here a Matlab-based optimization software package based on our nov
 - Run Main.m and wait until the optimization process done.
 - Enjoy results
 
-# Contribution
+# Contributors
 Thang Le-Duc
 Quoc-Hung Nguyen
 Hung Nguyen-Xuan
