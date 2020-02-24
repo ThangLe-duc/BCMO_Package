@@ -9,7 +9,7 @@ We contribute here a Matlab-based optimization software package based on our nov
 - Run Main.m and wait until the optimization process done.
 - Enjoy results
 
-# Active Developers
+# Contribution
 Thang Le-Duc
 Quoc-Hung Nguyen
 Hung Nguyen-Xuan
