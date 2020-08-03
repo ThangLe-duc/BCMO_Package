@@ -7,7 +7,7 @@ We contribute here a Matlab-based optimization package based on our novel optimi
 2. How to solve unconstrained optimization problems by BCMO software package: 
 - Define the objective function in OptimProblem.m Define the necessary inputs (dimension, population size, maximum generation, bounds, etc.) in Main.m
 - Run Main.m and wait until the optimization process done.
-- Enjoy results
+- Get output
 
 # Contributors
 - Thang Le-Duc
